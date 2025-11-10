@@ -1,0 +1,21 @@
+id,langue ,jour 1,jour 2,jour 3,jour 4,jour 5,jour 6,jour 7
+1,allemand,Montag,Dienstag,Mittwoch,Donnerstag,Freitag,Samstag,Sonntag
+2,anglais,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+3,arabe,الإثنين,الثلاثاء,الأربعاء,الخميس,الجمعة,السبت,الأحد
+4,bulgare,понеделник,вторник,сряда,четвъртък,петък,събота,неделя
+5,chinois,星期一,星期二,星期三,星期四,星期五,星期六,星期日
+6,espagnol,lunes,martes,miércoles,jueves,viernes,sábado,domingo
+7,espéranto,lundo,mardo,merkredo,ĵaŭdo,vendredo,sabato,dimanĉo
+8,grec,Δευτέρα,Τρίτη,Τετάρτη,Πέμπτη,Παρασκευή,Σάββατο,Κυριακή
+9,hawaïen,po'akahi,po'alua,po'akolu,po'aha,po'alima,po'aono,lapule
+10,ido,lundio,mardio,merkurdio,jovdio,venerdio,saturdio,sundio
+11,indonésien,Senin,Selasa,Rabu,Kamis,Jumat,Sabtu,Minggu
+12,italien,lunedì,martedì,mercoledì,giovedì,venerdì,sabato,domenica
+13,latin,dies Lunae,dies Martis,dies Mercuri,dies Iovis,dies Veneris,dies Saturni,dies Solis
+14,maori,Rāhine,Rātū,Rāapa,Rāpare,Rāmere,Rāhoroi,Rātapu
+15,russe,понедельник,вторник,среда,четверг,пятница,суббота,воскресенье
+16,samoan,aso gafua,aso lua,aso lulu,aso tofi,aso faraile,aso toonai,aso sa
+17,sanscrit,सोमवासरः,मंगलवासरः,भुधवसरः,गुरूवासरः,शुक्रवासरः,शनिवासरः,आदित्यवासरः
+18,serbe,понедељак,уторак,среда,четвртак,петак,субота,недеља
+19,tongien,monite,tusite,pulelulu,tu'apulelulu,falaite,tokonaki,sapate
+20,wallisien,mōnite,feliatolu,feliafā,felianima,feliaono,moeaki,ʻahotapu

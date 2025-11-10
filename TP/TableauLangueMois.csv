@@ -1,0 +1,21 @@
+id,langue ,mois 1,mois 2,mois 3,mois 4,mois 5,mois 6,mois 7,mois 8,mois 9,mois 10,mois 11,mois 12
+1,allemand,Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember
+2,anglais,January,February,March,April,May,June,July,August,September,October,November,December
+3,arabe,يَنَايِر   , ْفَبْرَايِر,  مَارِسْ, أَبْرِيلْ,مَايُو,يُونْيُو,يُولِيُو, أَغُسْطُسْ, سِبْتَمْبَر,أُكْتُوبَرْ,نُوفَمْبَرْ,دِيسَمْبَرْ
+4,bulgare,януари,февруари,март,април,май,юни,юли,август,септември,октомври,ноември,декември
+5,chinois,一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月
+6,espagnol,enero,febrero,marzo,abril,mayo,junio,julio,agosto,septiembre,octubre,noviembre,diciembre
+7,espéranto,januaro,februaro,marto,aprilo,majo,junio,julio,aŭgusto,septembro,oktobro,novembro,decembro
+8,grec,Ἰανουάριος,Φεϐρουάριος,Μάρτιος,Ἀπρίλιος,Μάϊος,Ἰούνιος,Ἰούλιος,Αὔγυστος,Σεπτέμϐριος,Ὀκτώϐριος,Νοέμβριος,Δεκέμβριος
+9,hawaïen,Ianuali,Pepeluali,Malaki,ʻApelila,Mei,Iune,Iulai,ʻAukake,Kepakemapa,ʻOkakopa,Nowemapa,Kekemapa
+10,ido,januaro,februaro,marto,aprilo,mayo,junio,julio,agosto,septembro,oktobro,novembro,decembro
+11,indonésien,Januari,Februari,Maret,April,Mei,Juni,Juli,Agustus,September,Oktober,November,Desember
+12,italien,gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre
+13,latin,Ianuarius,Februarius,Martius,Aprilis,Maius,Iunius,Iulius,Augustus,September,October,November,December
+14,maori,Hānuere,Pēpuere,Māehe,Āperire,Mei,Hune,Hūrae,Ākuhata,Hepetema,Oketopa,Noema,Tīhema
+15,russe,январь,февраль,март,апрель,май,июнь,июль,август,сентябрь,октябрь,ноябрь,декабрь
+16,samoan,Ianuari,Fepuari,Mati,'Aperila,Mē,Iuni,Iulai,'Aukuso,Sētema,'Oketopa,Nōvema,Tēsema
+17,sanscrit,माघः,फाल्गुनः,चैत्रः,वैशाखः,ज्येष्ठः,आषाढः,श्रावणः,भाद्रपदः,आश्विनः,कार्तिकः,मार्गशीर्षः,
+18,serbe,јануар,фебруар,март,април,мај,јун,јул,август,септембар,октобар,новембар,децембар
+19,tongien,Sanuali,Fepueli,Maʻasi,ʻEpeleli,Mē,Sune,Siulai,ʻĀkosi,Sepitema,ʻOkatopa,Nōvema,Tīsema
+20,wallisien,sanualio,fepualio,malesio,ʻapelili,maio,sūnio,sūlio,ʻaukusito,sepetepeli,oketopeli,novepeli,tesepeli
